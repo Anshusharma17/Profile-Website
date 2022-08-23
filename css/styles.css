@@ -5,6 +5,9 @@ body {
 h1 {
   line-height: 1.5;
 }
+#title{
+  background-color: #ff4c68;
+}
 
 .white-color {
   color: white;
